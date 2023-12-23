@@ -4,8 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": " node server.js",
-    "buildCommand": "npm run build"
+    "start": "nodemon server.js",
+    "start-prod": "node server.js",
+    "buildCommand": "npm install && npm run build"
   },
   "author": "",
   "license": "ISC",
