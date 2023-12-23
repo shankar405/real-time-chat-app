@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": " node server.js",
-    "BuildCommand": "npm run build"
+    "build": "npm install"
   },
   "author": "",
   "license": "ISC",
