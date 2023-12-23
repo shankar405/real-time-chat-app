@@ -2,10 +2,10 @@
   "name": "real-time-chat-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": " node server.js",
-    "buildCommand": "npm install && npm run build"
+    "buildCommand": "npm run build"
   },
   "author": "",
   "license": "ISC",
